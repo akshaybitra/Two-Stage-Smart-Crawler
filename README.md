@@ -1,1 +1,1 @@
-A two Stage web crawler for Deep and efficient Harvesting using JSP. It is an enhanced version of a traditional search engine. It uses an algorithm to rank the web pages based on their level of importance. The Ranking is determined by the inbound links that are present in each webpage.
+# Two-Stage_Smart_Crawler
